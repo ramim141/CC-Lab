@@ -1,0 +1,1 @@
+gcc lex.yy.c -o lexer.exe
