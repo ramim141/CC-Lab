@@ -1,0 +1,10 @@
+int main()
+{
+    int x = 5;
+    float y = 3.14;
+    char ch = 'z';
+    if (x > 0) {
+        printf("Positive: %d\n", x);
+    }
+    return 0;
+}
