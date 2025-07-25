@@ -1,0 +1,4 @@
+Declaration: int a = 10
+Declaration: int b = 20
+Return statement: return true
+If statement: if(a > b)
