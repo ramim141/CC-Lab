@@ -1,0 +1,3 @@
+In line no 3, ID a is not declared.
+In line no 3, Data type UNDEF_TYPE is not matched with Data type UNDEF_TYPE.
+Parsing finished successfully!
